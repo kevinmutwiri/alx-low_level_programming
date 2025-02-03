@@ -13,3 +13,5 @@
    create executable named `cisfun`.
 4. [4-puts.c](./4-puts.c) - Print string using `puts`.
 5. [5-printf.c](./5-printf.c) - Print string using `printf`.
+6. [6-size.c](./6-size.c) - Print the size of various data types on the computer
+   it is run on.
