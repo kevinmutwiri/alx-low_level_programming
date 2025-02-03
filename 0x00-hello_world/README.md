@@ -11,3 +11,4 @@
    variable `$CFILE`, but with extension `.s` instead of `.c`.
 3. [3-name](./3-name) - Compile a C file saved in the variable `$CFILE` and
    create executable named `cisfun`.
+4. [4-puts.c](./4-puts.c) - Print string using `puts`.
