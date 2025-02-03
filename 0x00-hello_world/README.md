@@ -18,3 +18,4 @@
 7. [100-intel](./100-intel) - Generate the assembly code (Intel syntax) of a
    C code saved in variable `$CFILE` and save it in output file named the same
    as the C file, but with the extension `.s` instead of `.c`.
+8. [101-quote.c](./101-quote.c) - Print string to standard error.
