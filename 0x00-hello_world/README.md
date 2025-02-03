@@ -9,3 +9,5 @@
   but with extension `.o` instead of `.c`.
 2. [2-assembler](./2-assembler) - Generate assembly code of C file saved in
    variable `$CFILE`, but with extension `.s` instead of `.c`.
+3. [3-name](./3-name) - Compile a C file saved in the variable `$CFILE` and
+   create executable named `cisfun`.
