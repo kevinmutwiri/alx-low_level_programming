@@ -15,3 +15,6 @@
 5. [5-printf.c](./5-printf.c) - Print string using `printf`.
 6. [6-size.c](./6-size.c) - Print the size of various data types on the computer
    it is run on.
+7. [100-intel](./100-intel) - Generate the assembly code (Intel syntax) of a
+   C code saved in variable `$CFILE` and save it in output file named the same
+   as the C file, but with the extension `.s` instead of `.c`.
