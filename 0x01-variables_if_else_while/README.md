@@ -4,3 +4,4 @@ C - Variables, if, else, while
 
 0. [0-positive_or_negative.c](./0-positive_or_negative.c) - Check if number is
    positive or negative.
+1. [1-last_digit.c](./1-last_digit.c) - Print the last digit of number.
