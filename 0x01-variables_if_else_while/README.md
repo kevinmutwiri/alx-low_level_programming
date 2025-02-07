@@ -10,3 +10,5 @@ C - Variables, if, else, while
    lowercase, then in uppercase.
 4. [4-print_alphabt.c](./4-print_alphabt.c) - Print the alphabet in lowercase,
    except `q` and `e`.
+5. [5-print_numbers.c](./5-print_numbers.c) - Print all single digit numbers
+   of base 10 starting from 0 on the same line.
