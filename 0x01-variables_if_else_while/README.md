@@ -14,3 +14,5 @@ C - Variables, if, else, while
    of base 10 starting from 0 on the same line.
 6. [6-print_numberz.c](./6-print_numberz.c) - Print all single digit numbers
    of base 10.
+7. [7-print_tebahpla.c](./7-print_tebahpla.c) - Print lowercase alphabet in
+   reverse.
