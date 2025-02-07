@@ -12,3 +12,5 @@ C - Variables, if, else, while
    except `q` and `e`.
 5. [5-print_numbers.c](./5-print_numbers.c) - Print all single digit numbers
    of base 10 starting from 0 on the same line.
+6. [6-print_numberz.c](./6-print_numberz.c) - Print all single digit numbers
+   of base 10.
