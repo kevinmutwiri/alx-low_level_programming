@@ -8,3 +8,5 @@ C - Variables, if, else, while
 2. [2-print_alphabet.c](./2-print_alphabet.c) - Print the alphabet in lowercase.
 3. [3-print_alphabets.c](./3-print_alphabets.c) - Print the alphabet in
    lowercase, then in uppercase.
+4. [4-print_alphabt.c](./4-print_alphabt.c) - Print the alphabet in lowercase,
+   except `q` and `e`.
