@@ -18,3 +18,5 @@ C - Variables, if, else, while
    reverse.
 8. [8-print_base16.c](./8-print_base16.c) - Print all the numbers of base 16
    in lowercase.
+9. [9-print_comb.c](./9-print_comb.c) - Print all possible combinations of
+   single-digit numbers.
